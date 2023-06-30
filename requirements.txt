@@ -1,1 +1,2 @@
 redis>=4.5.5
+tensorflow>=2.3.0
